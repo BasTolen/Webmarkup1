@@ -1,13 +1,101 @@
 body {
-		background-image: URL("../image/flag.svg")
-	 }
+		background-color: white;
+		background-image: url(../image/BGimage.jpg) ;
+		margin: 0;
+}
+
 h1 {
+	font-family:arial;
+	font-size: 5em;
+	font-style:italic;
+	font-weight:Bold;
+	color:Black;
+	margin:1rem;
+	text-align:center;
+}
+
+h2 {
+	font-family:Times New Roman ;
+	font-size: 3em;
+	font-style:oblique ;
+	font-weight:normal;
+	color:black; 
+	text-align:center;
+}
+
+h3 {
 	font-family:arial ;
-	font-style:italic ;
-	color:red; 
-   }
-   h2 {
+	font-style: ;
+	font-weight:normal;
+	color:black; 
+}
+
+h4 {
 	font-family:arial ;
-	font-style:italic ;
-	color:white; 
-   }
+	font-style: ;
+	font-weight:normal;
+	color:black; 
+}
+
+h5 {
+	font-family:arial ;
+	font-style: ;
+	font-weight:normal;
+	color:black; 
+}
+
+h6 {
+	font-family:arial ;
+	font-style: ;
+	font-weight:normal;
+	color:black; 
+}
+
+header {
+	text-align:right;
+	Height: 1%;
+	width: 50%;
+	border-width: 1em;
+	border-color: #f0f;
+	border-style: double;
+	margin-left: 25%;
+	margin-top: 1%;
+	
+}
+
+nav {
+	width: 16.2%;
+	border-width: 0.1em;
+	border-color: #f0f;
+	border-style: solid;
+	margin-left: 41.9%;
+	margin-top: 1%;
+}
+
+.hs1 {
+	width: 22.5%;
+	border-width: 0.1em;
+	border-color: #0f0;
+	border-style: solid;
+	padding: 0.001%;
+	margin-left: 1%;
+	margin-right: ;
+	margin-top: 1%;
+	margin-bottom: ;
+}
+
+.ha1 {
+	width: 33.3%;
+	border-width: 0.1em;
+	border-color: #0f0;
+	border-style: solid;
+	padding: 0.001%;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+
+.pa1 {
+	width: 33.3%;
+	margin-left: 1%;
+	margin-top: 1%;
+}
